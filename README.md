@@ -1,4 +1,4 @@
-# bot4pix Telegram Bot
+# BOT4PIX Telegram Bot
 
 This repository contains a Telegram bot powered by the **Flux**(or you can use any other you like) model and supports LoRA-based fine-tuning via [PEFT](https://github.com/huggingface/peft). The bot is written in Python and leverages [diffusers](https://github.com/huggingface/diffusers), [transformers](https://github.com/huggingface/transformers), [peft](https://github.com/huggingface/peft), and [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot).
 
@@ -58,7 +58,7 @@ Demo: [bot4pix](http:t.me/stablepixbot)
         pip install transformers diffusers peft python-telegram-bot==13.15
         ```
    4. **Configure the Telegram Bot Token and Admin ID**  
-      - Open `bot.py` (or whichever file contains your code).
+      - Open `bot.py` (or whichever file contains bot's code).
       - Replace:
         ```python
         TELEGRAM_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'  # Replace with your token
