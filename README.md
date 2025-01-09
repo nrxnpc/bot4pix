@@ -28,8 +28,8 @@ Demo: [bot4pix](http:t.me/stablepixbot)
 1. **Install & Setup**  
    1. **Clone the Repository**  
       ```bash
-      git clone https://github.com/username/flux-telegram-bot.git
-      cd flux-telegram-bot
+      git clone https://github.com/nrxnpc/bot4pix.git
+      cd bot4pix
       ```
    2. **Create and Activate a Virtual Environment** (recommended)  
       - **Using Conda**:  
@@ -40,8 +40,7 @@ Demo: [bot4pix](http:t.me/stablepixbot)
       - **Using venv (pip)**:  
         ```bash
         python -m venv fluxbot
-        source fluxbot/bin/activate    # Linux/Mac
-        fluxbot\Scripts\activate       # Windows
+        source fluxbot/bin/activate 
         ```
    3. **Install Dependencies**  
       - **Using pip (in your virtual environment)**:  
