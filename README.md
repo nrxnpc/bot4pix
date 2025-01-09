@@ -1,6 +1,6 @@
 # bot4pix Telegram Bot
 
-This repository contains a Telegram bot powered by the **Flux** model and supports LoRA-based fine-tuning via [PEFT](https://github.com/huggingface/peft). The bot is written in Python and leverages [diffusers](https://github.com/huggingface/diffusers), [transformers](https://github.com/huggingface/transformers), [peft](https://github.com/huggingface/peft), and [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot).
+This repository contains a Telegram bot powered by the **Flux**(or you can use any other you like) model and supports LoRA-based fine-tuning via [PEFT](https://github.com/huggingface/peft). The bot is written in Python and leverages [diffusers](https://github.com/huggingface/diffusers), [transformers](https://github.com/huggingface/transformers), [peft](https://github.com/huggingface/peft), and [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot).
 
 Demo: [bot4pix](http:t.me/stablepixbot)
 
