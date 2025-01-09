@@ -34,13 +34,13 @@ Demo: [bot4pix](http:t.me/stablepixbot)
    2. **Create and Activate a Virtual Environment** (recommended)  
       - **Using Conda**:  
         ```bash
-        conda create -n fluxbot python=3.9
-        conda activate fluxbot
+        conda create -n bot4pix python=3.9
+        conda activate bot4pix
         ```  
       - **Using venv (pip)**:  
         ```bash
-        python -m venv fluxbot
-        source fluxbot/bin/activate 
+        python -m venv bot4pix
+        source bot4pix/bin/activate 
         ```
    3. **Install Dependencies**  
       - **Using pip (in your virtual environment)**:  
